@@ -8,3 +8,5 @@ In the age of social media, the interactions between people, the news, influence
 
 #Contribution for github: <David Jaramillo>
 #Contribution for github: <Alexis Silva>
+#Contribution for github: <Mubarak fhid>
+Forked this repository to contribute to the project.
